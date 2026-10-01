@@ -1,0 +1,30 @@
+{
+  "title": "California Injury Index: 2026 Ranked-Firm Dataset",
+  "description": "Public-source dataset supporting the California Injury Index 2026 comparison of California personal injury and car accident law firms. The dataset distinguishes third-party recognition from firm-reported results and links each ranked firm to its evidence profile and source records.",
+  "creators": [
+    {
+      "name": "Ethical SEO Consulting LLC"
+    }
+  ],
+  "keywords": [
+    "California",
+    "personal injury lawyers",
+    "car accident lawyers",
+    "law firm rankings",
+    "legal research"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "related_identifiers": [
+    {
+      "identifier": "https://bestcaliforniainjurylawyers.com/methodology",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bestcaliforniainjurylawyers.com/best-california-personal-injury-lawyers",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
